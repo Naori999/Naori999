@@ -8,6 +8,3 @@
 </a>
 <br/>
 <br/>
-<div align="center">
-<sub>Indonesia · 2026</sub>
-</div>
